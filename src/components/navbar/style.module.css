@@ -1,0 +1,53 @@
+.navbar {
+  background-color: #333333;
+  color: white;
+}
+
+.navLink {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  color: white !important;
+  text-decoration: none;
+}
+
+.image {
+  width: 80px;
+  height: 60px;
+  border-radius: 50px 20px 50px 20px;
+  border: 1px solid #ed184f;
+}
+
+.navLink:hover {
+  background-color: rgb(215, 199, 199);
+  color: black !important;
+  border-radius: 5px;
+}
+
+.navItemText {
+  color: white;
+}
+.button {
+  background-color: #333333;
+  border: 0.5px solid white;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgb(215, 199, 199);
+}
+.icon {
+  color: white;
+}
+.icon:hover {
+  color: #333333;
+}
+
+.collapse {
+  transition: height 0.3s ease;
+}
+
+.collapsing {
+  transition: height 0.3s ease;
+}

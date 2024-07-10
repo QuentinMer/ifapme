@@ -1,0 +1,26 @@
+.titre{
+    font-weight: 200;
+    margin-top: 5%;
+}
+.hr{
+    color: rgb(81, 76, 76);
+}
+.button{
+    background-color: #2780E3;
+    color: white;
+    font-weight: 300;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 3px;
+}
+.button:hover{
+    background-color: #0752a9;
+}
+.lien{
+    color: #2780E3;
+    text-decoration: none;
+}
+.lien:hover{
+    color: #0752a9;
+    text-decoration: underline;
+}

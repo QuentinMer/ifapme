@@ -1,0 +1,20 @@
+.titre {
+    margin-bottom: 5%;
+    color: #2780E3;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: x-large;
+    letter-spacing: 1px;
+}
+.button{
+    color: white;
+    background-color: #2780E3;
+    font-weight: 200;
+    border: none;
+    padding: 20px 40px ;
+    text-align: center;
+    margin-top: 2%;
+}
+.button:hover{
+    background-color: #0d4e99;
+}
